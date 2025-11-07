@@ -1,2 +1,2 @@
 # python-pathway
-Quaderno digitale esercizi Python con pseudocodice e versioni alternative
+Quaderno digitale di esercizi Python con pseudocodice (e versioni alternative!)
